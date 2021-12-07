@@ -10,7 +10,7 @@ from random_functions.utils import Capturing
 class LoadDummyData(Dataset):
     def __init__(self, rows):
         super().__init__()
-        self.data = torch.randn(rows, 2)
+        self.data = torch.randn(rowss, 2)
 
     def __getitem__(self, idx):
         return self.data[idx, 0], self.data[idx, 1]
