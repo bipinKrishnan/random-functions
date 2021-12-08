@@ -1,0 +1,35 @@
+# Project information
+site_name: Random Functions
+site_url: http://127.0.01:8000
+site_description: A python library to ease out developer lives
+
+site_author: Bipin Krishnan P
+
+# Repository
+repo_url: https://github.com/bipinKrishnan/random-functions
+repo_name: bipinKrishnan/random-functions
+edit_uri: "" #disables edit button
+
+# Configuration
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.expand
+  icon:
+    repo: fontawesome/brands/github
+
+# Extensions
+markdown_extensions:
+  - pymdownx.superfences # nest code and content inside alerts
+
+# Plugins
+plugins:
+  - search
+  - mkdocstrings

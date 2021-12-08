@@ -1,2 +1,2 @@
 # random-functions
-A python library that ease out developer lives
+A python library to ease out developer lives

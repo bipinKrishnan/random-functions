@@ -3,7 +3,7 @@ import pytest
 import torch
 from torch.utils.data import Dataset, DataLoader
 
-from random_functions.pytorch import check_dataloaders
+from random_functions.pytorch.utils import check_dataloaders
 from random_functions.utils import Capturing
 
 
