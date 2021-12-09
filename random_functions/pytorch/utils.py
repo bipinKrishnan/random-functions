@@ -1,7 +1,6 @@
 def check_dataloaders(*args) -> None:
     """
-    Checks if there are any errors in the provided PyTorch dataloaders
-    and prints the shape of it.
+    Prints the shape of the provided PyTorch dataloaders.
 
     Usage:
 
