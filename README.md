@@ -1,2 +1,10 @@
-# random-functions
-A python library to ease out developer lives
+<div align="center">
+
+<img src="docs/static/logo.png" width="400px"> 
+  
+**Python 🐍 library to ease out developer lives**
+  
+[![license](https://img.shields.io/github/license/bipinKrishnan/random-functions)](https://github.com/bipinKrishnan/centroid/blob/main/LICENSE)
+
+  
+</div>
