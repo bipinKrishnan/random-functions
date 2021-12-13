@@ -1,3 +1,2 @@
 torch==1.10.0
-pytest==6.2.3
-mkdocs==1.2.3
+numpy==1.21.4
