@@ -8,7 +8,7 @@ def check_dataloaders(*args) -> None:
     """
     Prints the shape of the provided PyTorch dataloaders.
 
-    Usage:
+    <u>Usage:</u>
 
     ```python
     from random_functions.pytorch.utils import check_dataloaders
@@ -26,7 +26,7 @@ def seed_everything(seed: int) -> None:
     This function sets the seed value for random number generator, 
     numpy, torch and cuda(if one is available).
 
-    Usage:
+    <u>Usage:</u>
 
       ```python
       from random_functions.pytorch.utils import seed_everything
